@@ -20,7 +20,7 @@
 <a href="https://twitter.com/palanioffcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="palanioffcl" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/palanioffcl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="palanioffcl" height="30" width="40" /></a>
 <a href="https://instagram.com/itz.palani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz.palani" height="30" width="40" /></a>
-<a href="https://medium.com/palanioffcl.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="palanioffcl.medium.com" height="30" width="40" /></a>
+<a href="https://palanioffcl.medium.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="palanioffcl.medium.com" height="30" width="40" /></a>
 
 </p>
 
