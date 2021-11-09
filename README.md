@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Palani</h1>
-<h3 align="center">Learning Development and H4cking by Passion</h3>
+<h3 align="center">Learning Development and H4cker by Passion</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=palanioffcl&label=Profile%20views&color=0e75b6&style=flat-square" alt="palanioffcl" />
                   </p>
 <p align="left"> <a href="https://twitter.com/palanioffcl" target="blank"><img src="https://img.shields.io/twitter/follow/palanioffcl?logo=twitter&style=for-the-badge" alt="palanioffcl" /></a> </p>
 
-- 🌱 I’m currently learning **Full stack & Data Science**
+- 🌱 I’m currently learning **Full stack & Data Structures**
 
 - 👨‍💻 All of my projects are available at [github.com/palanioffcl](github.com/palanioffcl)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **devpalaniga@gmail.com**
 
-- ⚡ Fun fact **Work Hard in Silence Let Success be your noise🏆**
+- ⚡ Quote **Work Hard in Silence Let Success be your noise🏆**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
