@@ -11,7 +11,7 @@
 <a href="https://www.instagram.com/itz.palani/">
   <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://stackoverflow.com/palanioffcl">
+<a href="https://stackoverflow.com/users/17167106/palani-ga">
   <img align="left" alt="PALANI's StackOverflow" height="27px" width="95px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
 <br><br>
@@ -32,7 +32,7 @@
 </a>
 
 <br>
-<p align="center"><h2 align="center"><samp> Developer, CTF Player, Cybersecurity Enthusiast </samp></h2></p>                                   
+<p align="center"><h2 align="center"><samp>A Developer, CTF Player, Cybersecurity Enthusiast </samp></h2></p>                                   
 <div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
