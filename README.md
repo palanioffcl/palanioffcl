@@ -3,39 +3,36 @@
   <img align="left" alt="PALANI's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/palanioffcl/">
-  <img align="left" alt="PALANI's LinkdeIn" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/palanioffcl">
-  <img align="left" alt="PALANI's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/itz.palani/">
-  <img align="left" alt="PALANI's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="udemy.com/user/palani-1313/">
-  <img align="left" alt="PALANI's Udemy" width="100px" src="https://img.shields.io/badge/Udemy-ac00e6?style=for-the-badge&logo=udemy&logoColor=white" />
-</a>
-<br><br>
-<a href="https://www.coursera.org/user/783266de616430532daffe5c74cc890b">
-  <img align="left" alt="PALANI's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img align="left" alt="PALANI's LinkdeIn" height="26px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://www.hackerrank.com/palanioffcl">
-  <img align="left" alt="PALANI's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+  <img align="left" alt="PALANI's hackerrank" height="27px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="https://codechef.com/palanioffcl">
-  <img align="left" alt="PALANI's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
+<a href="https://www.instagram.com/itz.palani/">
+  <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/palanioffcl">
+  <img align="left" alt="PALANI's StackOverflow" height="27px" width="95px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
+</a>
+<br><br>
+<a href="https://palani.gitbook.io/ctf-writeups">
+  <img align="left" alt="PALANI's Gitbook" height="27px" width="100px" src="https://img.shields.io/badge/Gitbook-0056D2?style=for-the-badge&logo=Gitbook&logoColor=white" />
+</a>
+<a href="https://github.com/palanioffcl">
+  <img align="left" alt="PALANI's Github" height="27px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://t.me/palanioffcl">
+  <img align="left" alt="PALANI's Telegram" height="27px" width="100px" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.youtube.com/channel/UC2OUB7Df3H30vAXHR49tdDA">
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
+<a href="https://palanioffcl.github.io">
+  <img align="left" alt="PALANI's Website" width="95px" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=world&logoColor=white" />
 </a>
-<a href="https://t.me/palanioffcl">
-  <img align="left" alt="PALANI's Telegram" width="100px" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-<br>
-<p align="center"><h4 align="center"><samp> Developer, CTF Player, Cybersecurity Enthusiast </samp></h4></p>
 
-##
-                                    
+<br>
+<p align="center"><h2 align="center"><samp> Developer, CTF Player, Cybersecurity Enthusiast </samp></h2></p>                                   
 <div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
@@ -43,7 +40,7 @@
 - 🔭 <samp>High School Passout- Ramakrishna Mat. Hr. Sec. School Chennai(2021) 87.6%
 - 💼 <samp>I’m looking for *Internship/Part-Time* Opportunities/roles.
 - 🤔 <samp>To connect devpalaniga@gmail.com
-- ⚡ <samp>Fun fact: Hardwork in Slience, Let Success make the noise
+- ⚡ <samp>Quote: Hardwork in Slience, Let your Success make the noise!!
 </div>
 
 ##
@@ -54,9 +51,9 @@
                                                                                                       
 - ✍️️  <samp>Pulished 15+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
 - 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
-- ☄️ <samp>Top 3% at Tryhackme Rank : Hacker<br>
+- 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
-- 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing Feel free to discuss ...<br>
+- 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing , Feel free to discuss...<br>
 </div>
     
 ##                                                                                                      
@@ -94,5 +91,5 @@
 ##
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/palaniofcl/count.svg" />
+  <img src="https://profile-counter.glitch.me/palanioffcl/count.svg" />
 </p>
