@@ -86,7 +86,7 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
                                                                                                       
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palanioffcl&count_private=false&show_icons=true&&include_all_commits=true)](https://github.com/palanioffcl/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl&hide=html,css)](https://github.com/palanioffcl/github-readme-stats-1)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palanioffcl&count_private=false&show_icons=true&&include_all_commits=true)](https://github.com/palanioffcl/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl&hide=)](https://github.com/palanioffcl/github-readme-stats-1)
 
 ##
 <p align="center"> 
