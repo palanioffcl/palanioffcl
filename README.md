@@ -12,14 +12,14 @@
   <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="https://stackoverflow.com/users/17167106/palani-ga">
-  <img align="left" alt="PALANI's StackOverflow" height="27px" width="95px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
+  <img align="left" alt="PALANI's StackOverflow" height="27px" width="100px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
 <br><br>
 <a href="https://palani.gitbook.io/ctf-writeups">
   <img align="left" alt="PALANI's Gitbook" height="27px" width="100px" src="https://img.shields.io/badge/Gitbook-0056D2?style=for-the-badge&logo=Gitbook&logoColor=white" />
 </a>
-<a href="https://github.com/palanioffcl">
-  <img align="left" alt="PALANI's Github" height="27px" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+<a href="https://palanioffcl.medium.com">
+  <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 <a href="https://t.me/palanioffcl">
   <img align="left" alt="PALANI's Telegram" height="27px" width="100px" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
@@ -28,7 +28,7 @@
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 <a href="https://palanioffcl.github.io">
-  <img align="left" alt="PALANI's Website" width="95px" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=world&logoColor=white" />
+  <img align="left" alt="PALANI's Website" height="27px" width="100px" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white" />
 </a>
 
 <br>
