@@ -84,9 +84,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
-                                                                                                      
+
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=palanioffcl&count_private=false&show_icons=true&&include_all_commits=true)](https://github.com/palanioffcl/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl&hide=)](https://github.com/palanioffcl/github-readme-stats-1)
+![Palani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=palanioffcl&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl)
+| --- | --- |
 
 ##
 <p align="center"> 
