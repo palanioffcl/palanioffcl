@@ -36,8 +36,8 @@
 <div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
-- 👷 <samp>Currently pursuing B.E in Computer Science(2021-2025) from SSIET
-- 🔭 <samp>High School Passout- Ramakrishna Mat. Hr. Sec. School Chennai(2021) 87.6%
+- 👷 <samp>Currently pursuing B.E in Computer Science(2021-2025)
+- 🔭 <samp>High School Passout (2021) 87.6%
 - 💼 <samp>I’m looking for *Internship/Part-Time* Opportunities/roles.
 - 🤔 <samp>To connect devpalaniga@gmail.com
 - ⚡ <samp>Quote: Hardwork in Slience, Let your Success make the noise!!
@@ -60,7 +60,7 @@
   [![Palani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palanioffcl)](https://git.io/J1Ycx)   
                                                                                                       
 ##
-<h4><b><samp>Skills and Languages</samp></b></h4>
+<h4><b><samp>Skills and Languages:</samp></b></h4>
 
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -75,7 +75,7 @@
 ![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
 
 ##
-<h4><b><samp>Tools and Platform</samp></b></h4>
+<h4><b><samp>Tools and Platforms: </samp></b></h4>
 
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
@@ -86,11 +86,14 @@
 ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
 
 ##
+  <h4><b><samp>Statistics:</samp></b></h4>
+  
 ![Palani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=palanioffcl&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl)
 | --- | --- |
 
 ##
+  <h4><b><samp>Visitors Count:</samp></b></h4>
 <p align="center"> 
-  Visitor count<br>
+
   <img src="https://profile-counter.glitch.me/palanioffcl/count.svg" />
 </p>
