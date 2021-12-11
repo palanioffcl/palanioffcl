@@ -8,9 +8,12 @@
 <a href="https://www.hackerrank.com/palanioffcl">
   <img align="left" alt="PALANI's hackerrank" height="27px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="https://www.instagram.com/itz.palani/">
-  <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://leetcode.com/palanioffcl">
+
+  <img align="left" alt="PALANI's LeetCode" height="27px" width="100px" src="https://img.shields.io/badge/Leetcode-040303?style=for-the-badge&logo=leetcode&logoColor=white" />
+
 </a>
+
 <a href="https://stackoverflow.com/users/17167106/palani-ga">
   <img align="left" alt="PALANI's StackOverflow" height="27px" width="100px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
@@ -21,8 +24,10 @@
 <a href="https://palanioffcl.medium.com">
   <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
-<a href="https://t.me/palanioffcl">
-  <img align="left" alt="PALANI's Telegram" height="27px" width="100px" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white" />
+
+<a href="https://www.instagram.com/itz.palani/">
+  <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
 </a>
 <a href="https://www.youtube.com/channel/UC2OUB7Df3H30vAXHR49tdDA">
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -52,7 +57,7 @@
 - ✍️️  <samp>Pulished 15+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
 - 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- ☁ <samp>Check out my 50 Days of Learning([Infosec Track](https://twitter.com/palanioffcl))<br>
 - 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing , Feel free to discuss...<br>
 </div>
     
@@ -83,7 +88,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+![CodeChef](https://img.shields.io/badge/Leetcode-040303?style=flat-square&logo=Leetcode&logoColor=white)
 
 ##
   <h4><b><samp>Statistics:</samp></b></h4>
