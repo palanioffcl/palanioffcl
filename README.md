@@ -9,12 +9,9 @@
   <img align="left" alt="PALANI's hackerrank" height="27px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
 <a href="https://leetcode.com/palanioffcl">
-
-  <img align="left" alt="PALANI's LeetCode" height="27px" width="100px" src="https://img.shields.io/badge/Leetcode-040303?style=for-the-badge&logo=leetcode&logoColor=white" />
-
+  <img align="left" alt="PALANI's LeetCode" height="27px" width="100px" src="https://img.shields.io/badge/Leetcode-F5F5F5?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-<a href="https://stackoverflow.com/users/17167106/palani-ga">
+<a href="https://stackoverflow.com/users/17701373/palani">
   <img align="left" alt="PALANI's StackOverflow" height="27px" width="100px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
 <br><br>
@@ -25,12 +22,11 @@
   <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/itz.palani/">
-  <img align="left" alt="PALANI's Instagram" height="27px" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-
-</a>
 <a href="https://www.youtube.com/channel/UC2OUB7Df3H30vAXHR49tdDA">
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
+<a href="https://replit.com/@palanioffcl/">
+  <img align="left" alt="PALANI's Replit" height="27px" width="100px" src="https://img.shields.io/badge/Replit-000B49?style=for-the-badge&logo=replit&logoColor=white" />
 </a>
 <a href="https://palanioffcl.github.io">
   <img align="left" alt="PALANI's Website" height="27px" width="100px" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white" />
@@ -70,7 +66,6 @@
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Wolfram](https://img.shields.io/badge/Wolfram-DD1100?style=flat-square&logo=Wolfram&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
@@ -82,13 +77,12 @@
 ##
 <h4><b><samp>Tools and Platforms: </samp></b></h4>
 
-![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![CodeChef](https://img.shields.io/badge/Leetcode-040303?style=flat-square&logo=Leetcode&logoColor=white)
+![Leetcode](https://img.shields.io/badge/Leetcode-040303?style=flat-square&logo=Leetcode&logoColor=white)
 
 ##
   <h4><b><samp>Statistics:</samp></b></h4>
