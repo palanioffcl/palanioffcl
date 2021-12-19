@@ -87,8 +87,9 @@
 ##
   <h4><b><samp>Statistics:</samp></b></h4>
   
-![Palani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=palanioffcl&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl)
+![Palani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=palanioffcl&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl&layout=compact)
 | --- | --- |
+| <p><a href="https://twitter.com/palanioffcl"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=palanioffcl&amp;layout=wide" alt="github-readme-twitter"></a></p>| ![Palani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palanioffcl) |
 
 ##
   <h4><b><samp>Visitors Count:</samp></b></h4>
