@@ -58,7 +58,7 @@
 </div>
     
 ##                                                                                                      
-  [![Palani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palanioffcl)](https://git.io/J1Ycx)   
+  ![Palani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palanioffcl&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
                                                                                                       
 ##
 <h4><b><samp>Skills and Languages:</samp></b></h4>
