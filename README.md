@@ -50,16 +50,13 @@
 <h4><b><samp>Experiences:</samp></b></h4>
  <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PalaniGA.png" alt="TryHackMe" width="40%"/>                                   
                                                                                                       
-- ✍️️  <samp>Pulished 15+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
+- ✍️️  <samp>Published 15+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
 - 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
 - ☁ <samp>Check out my 50 Days of Learning([Infosec Track](https://twitter.com/palanioffcl))<br>
 - 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing , Feel free to discuss...<br>
 </div>
-    
-##                                                                                                      
-  ![Palani's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=palanioffcl&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true)
-                                                                                                      
+                                                                                          
 ##
 <h4><b><samp>Skills and Languages:</samp></b></h4>
 
@@ -84,16 +81,14 @@
 ![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
 ![Leetcode](https://img.shields.io/badge/Leetcode-040303?style=flat-square&logo=Leetcode&logoColor=white)
 
-##
-  <h4><b><samp>Statistics:</samp></b></h4>
+
+
   
-![Palani GitHub Statistics](https://github-readme-stats.vercel.app/api?username=palanioffcl&show_icons=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=palanioffcl&layout=compact&hide=html)
-| --- | --- |
-| <p><a href="https://twitter.com/palanioffcl"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=palanioffcl&amp;layout=wide" alt="github-readme-twitter"></a></p>| ![Palani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=palanioffcl) |
 
-##
-  <h4><b><samp>Visitors Count:</samp></b></h4>
-<p align="center"> 
 
-  <img src="https://profile-counter.glitch.me/palanioffcl/count.svg" />
-</p>
+
+ 
+
+
+
+
