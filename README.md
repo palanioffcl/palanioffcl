@@ -1,10 +1,7 @@
 # Hey Everyone! I'm 👋 [Palani ](https://github.com/palanioffcl)
-<a href="https://twitter.com/palanioffcl">
-  <img align="left" alt="PALANI's Twitter" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/palanioffcl/">
-  <img align="left" alt="PALANI's LinkdeIn" height="26px" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
+
+
+
 <a href="https://www.hackerrank.com/palanioffcl">
   <img align="left" alt="PALANI's hackerrank" height="27px" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
@@ -14,7 +11,7 @@
 <a href="https://stackoverflow.com/users/17701373/palani">
   <img align="left" alt="PALANI's StackOverflow" height="27px" width="100px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
-<br><br>
+
 <a href="https://palani.gitbook.io/ctf-writeups">
   <img align="left" alt="PALANI's Gitbook" height="27px" width="100px" src="https://img.shields.io/badge/Gitbook-0056D2?style=for-the-badge&logo=Gitbook&logoColor=white" />
 </a>
@@ -25,12 +22,7 @@
 <a href="https://www.youtube.com/channel/UC2OUB7Df3H30vAXHR49tdDA">
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<a href="https://replit.com/@palanioffcl/">
-  <img align="left" alt="PALANI's Replit" height="27px" width="100px" src="https://img.shields.io/badge/Replit-000B49?style=for-the-badge&logo=replit&logoColor=white" />
-</a>
-<a href="https://palanioffcl.github.io">
-  <img align="left" alt="PALANI's Website" height="27px" width="100px" src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white" />
-</a>
+
 
 <br>
 <p align="center"><h2 align="center"><samp>A Developer, CTF Player, Cybersecurity Enthusiast </samp></h2></p>                                   
@@ -60,7 +52,6 @@
 ##
 <h4><b><samp>Skills and Languages:</samp></b></h4>
 
-![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![C](https://img.shields.io/badge/C-27338e?style=flat-square&logo=c&logoColor=white)
