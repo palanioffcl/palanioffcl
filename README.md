@@ -12,8 +12,8 @@
   <img align="left" alt="PALANI's StackOverflow" height="27px" width="100px" src="https://img.shields.io/badge/StackOverflow-FF7800?style=for-the-badge&logo=StackOverflow&logoColor=white" />
 </a>
 
-<a href="https://palani.gitbook.io/ctf-writeups">
-  <img align="left" alt="PALANI's Gitbook" height="27px" width="100px" src="https://img.shields.io/badge/Gitbook-0056D2?style=for-the-badge&logo=Gitbook&logoColor=white" />
+<a href="https://codechef.com/users/palanioffl">
+  <img align="left" alt="PALANI's CodeChef Profile" height="27px" width="100px" src="https://img.shields.io/badge/Codechef-D7BC9E?style=for-the-badge&logo=Codechef&logoColor=black" />
 </a>
 <a href="https://palanioffcl.medium.com">
   <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
