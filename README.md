@@ -46,7 +46,7 @@
 - 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
 - ☁ <samp>Check out my 50 Days of Learning([Infosec Track](https://twitter.com/palanioffcl))<br>
-- 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing , Feel free to discuss...<br>
+- 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing, Feel free to discuss...<br>
 </div>
                                                                                           
 ##
@@ -59,27 +59,4 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
-![Matlab](https://img.shields.io/badge/MATLAB-800000?style=flat-square&logo=MathWorks&logoColor=white)
-![Java](https://img.shields.io/badge/Java-013243?style=flat-square&logo=Java&logoColor=white)
-
-##
-<h4><b><samp>Tools and Platforms: </samp></b></h4>
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![HackerRank](https://img.shields.io/badge/HackerRank-107C10?style=flat-square&logo=HackerRank&logoColor=black)
-![Leetcode](https://img.shields.io/badge/Leetcode-040303?style=flat-square&logo=Leetcode&logoColor=white)
-
-
-
-  
-
-
-
- 
-
-
-
 
