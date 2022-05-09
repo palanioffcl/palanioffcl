@@ -19,7 +19,7 @@
   <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/channel/UC2OUB7Df3H30vAXHR49tdDA">
+<a href="https://www.youtube.com/channel/UCKkUM4IIFDXO68ucbRdzvmQ">
   <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
