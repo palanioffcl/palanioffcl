@@ -42,7 +42,7 @@
 <h4><b><samp>Experiences:</samp></b></h4>
  <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PalaniGA.png" alt="TryHackMe" width="40%"/>                                   
                                                                                                       
-- ✍️️  <samp>Published 15+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
+- ✍️️  <samp>Published 5+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
 - 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
 - ☁ <samp>Check out my 50 Days of Learning([Infosec Track](https://twitter.com/palanioffcl))<br>
