@@ -24,31 +24,16 @@
 </a>
 
 
-<br>
-<p align="center"><h2 align="center"><samp>A Developer, CTF Player, Cybersecurity Enthusiast </samp></h2></p>                                   
-<div>
+<br><div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
 - 👷 <samp>Currently pursuing B.E in Computer Science(2021-2025)
-- 🔭 <samp>High School Passout (2021) 87.6%
+- 🚩 <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 💼 <samp>I’m looking for *Internship/Part-Time* Opportunities/roles.
 - 🤔 <samp>To connect devpalaniga@gmail.com
-- ⚡ <samp>Quote: Hardwork in Slience, Let your Success make the noise!!
+- 💡 <samp>Currently Focusing on Binary Exploitation & Reversing, Feel free to discuss...<br>
 </div>
 
-##
-
-<div>
-<h4><b><samp>Experiences:</samp></b></h4>
- <img align="right" src="https://tryhackme-badges.s3.amazonaws.com/PalaniGA.png" alt="TryHackMe" width="40%"/>                                   
-                                                                                                      
-- ✍️️  <samp>Published 5+ Tech Blogs at [Medium](https://palanioffcl.medium.com)<br>
-- 🚩   <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
-- 👨‍💻 <samp>Top 3% at Tryhackme Rank : Hacker<br>
-- ☁ <samp>Check out my 50 Days of Learning([Infosec Track](https://twitter.com/palanioffcl))<br>
-- 💡 <samp>Currently Focusing on Pwn & Low-Level Reversing, Feel free to discuss...<br>
-</div>
-                                                                                          
 ##
 <h4><b><samp>Skills and Languages:</samp></b></h4>
 
