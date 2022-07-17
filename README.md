@@ -19,15 +19,10 @@
   <img align="left" alt="PALANI's Medium" height="27px" width="100px" src="https://img.shields.io/badge/Medium-181717?style=for-the-badge&logo=Medium&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/channel/UCKkUM4IIFDXO68ucbRdzvmQ">
-  <img align="left" alt="PALANI's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-
-
 <br><div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
-- 👷 <samp>Currently pursuing B.E in Computer Science(2021-2025)
+- 👷 <samp>Code Everything @ [YouTube](https://www.youtube.com/channel/UCKkUM4IIFDX068ucbRdzvmQ)
 - 🚩 <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 💼 <samp>I’m looking for *Internship/Part-Time* Opportunities/roles.
 - 🤔 <samp>To connect devpalaniga@gmail.com
