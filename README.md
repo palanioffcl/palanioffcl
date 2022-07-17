@@ -22,7 +22,7 @@
 <br><div>
 <h4><b><samp>About Me: </samp></b></h4>  
 
-- 👷 <samp>Code Everything @ [YouTube](https://www.youtube.com/channel/UCKkUM4IIFDX068ucbRdzvmQ)
+- 👷 <samp>Code Everything @ [YouTube](https://youtube.com/channel/UCKkUM4IIFDXO68ucbRdzvmQ)
 - 🚩 <samp>CTF Player [Profile](https://ctftime.org/team/165822)<br>
 - 💼 <samp>I’m looking for *Internship/Part-Time* Opportunities/roles.
 - 🤔 <samp>To connect devpalaniga@gmail.com
